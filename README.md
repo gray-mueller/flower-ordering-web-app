@@ -1,5 +1,5 @@
 <h2 style="text-align:center">Flower Ordering Web App </h2>
-
-![Flower Ordering Web App](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/Gray/flower%20ordering%20web%20app.webp) 
-
-The Flower Ordering Web App frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/gary-flower-ordering-web-app" target="_blank">click here</a>
+ 
+ ![Flower Ordering Web App](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/Gray/flower%20ordering%20web%20app.webp) 
+ 
+ The Flower Ordering Web App frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/gray-flower-ordering-web-app" target="_blank">click here</a>
